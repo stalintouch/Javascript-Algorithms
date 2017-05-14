@@ -1,4 +1,4 @@
-
+// Return the length of the longest word in the provided sentence.
 function findLongestWord(str) {
   var longestW =0;
   str = str.split(" ");

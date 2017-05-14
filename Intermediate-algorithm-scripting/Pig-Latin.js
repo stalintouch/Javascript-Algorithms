@@ -1,3 +1,4 @@
+// Translate the provided string to pig latin.
 function translatePigLatin(str) {
   var reg = /[aeiou]/;
   var firstLetter = str[0];
